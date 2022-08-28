@@ -1,3 +1,3 @@
 # Semantic_segmentation_pipeline
 
-This project is no longer in development
+This project is no longe in development
